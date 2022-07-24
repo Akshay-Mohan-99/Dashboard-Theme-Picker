@@ -16,3 +16,6 @@ Editor :
 
 Color-Picker :
 ![image](https://user-images.githubusercontent.com/48945975/180652524-26450843-9b72-42fa-81a3-aeb0028e5672.png)
+
+Theme Setting :
+![image](https://user-images.githubusercontent.com/48945975/180652606-9d5ec68d-4ebe-4561-9d18-1c1b88d9652c.png)
